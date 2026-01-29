@@ -130,6 +130,3 @@ palantir-server/
 
 **Arthur SJ** - [GitHub](https://github.com/ArthurSJz)
 
-## 📄 License
-
-MIT License
